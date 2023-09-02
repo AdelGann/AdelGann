@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- 💬 Ask me about Manjaro Linux ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) 
-- ⚡ Favorite IDE is Nvim ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+- 🌱 I’m currently learning Java
+- ⚡ Favorite IDE is Nvim
+- 📫 How to reach me: adelchaficgc@gmail.com
 
 
 [![wakatime](https://wakatime.com/badge/user/f30f8592-2d77-48a4-af35-b158f2646da5.svg)](https://wakatime.com/@f30f8592-2d77-48a4-af35-b158f2646da5)  
+
+
 <!--
 **AdelGann/AdelGann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

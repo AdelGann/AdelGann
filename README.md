@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Java 
 - ⚡ Favorite OS is Arch Linux 
-- 📫 How to reach me: adelchaficgc@gmail.com
+- 📫 How to reach me: aimadelg14@gmail.com
 
 
 [![wakatime](https://wakatime.com/badge/user/f30f8592-2d77-48a4-af35-b158f2646da5.svg)](https://wakatime.com/@f30f8592-2d77-48a4-af35-b158f2646da5)  

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Java 
-- ⚡ Favorite IDE is Nvim 
+- ⚡ Favorite OS is Arch Linux 
 - 📫 How to reach me: adelchaficgc@gmail.com
 
 

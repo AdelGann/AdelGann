@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning TypeScript
 - ⚡ Favorite OS is Arch Linux 
 - 📫 How to reach me: imadelg14@gmail.com
 

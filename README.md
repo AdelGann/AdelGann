@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on several projects
+- 🌱 I’m currently learning Java Springboot
 - ⚡ Favorite OS is Arch Linux 
 - 📫 How to reach me: imadelg14@gmail.com
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sempiterno Group<br>👯 I’m looking to collaborate on GMCA <br>🌱 I’m currently learning Java Springboot<br>💬 Ask me about React/Typescript<br>⚡ Fun fact I'm 16
+🔭 I’m currently working on Sempiterno Group<br>👯 I’m looking to collaborate on GMCA <br>🌱 I’m currently learning Java Springboot<br>💬 Ask me about React/Typescript<br>⚡ Fun fact I'm 17
 
 
 ## 🌐 Socials:
